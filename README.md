@@ -1,4 +1,4 @@
-# Để thực hiện phân tích cảm xúc trên IMDB Reviews với LSTM, các bước sử dụng những thư viện đã nêu sẽ như sau:
+# Các bước thực hiện phân tích cảm xúc trên IMDB Reviews với LSTM, cùng với những thư viện đã nêu sẽ như sau:
 
 ### 1. Chuẩn bị và nạp dữ liệu:
    - **`os`** và **`zipfile`**: Nếu dữ liệu được lưu trữ trong file nén `.zip`, bạn sẽ cần giải nén file và đọc các file bên trong.
